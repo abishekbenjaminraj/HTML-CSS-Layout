@@ -1,0 +1,394 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.col_1{
+    width:8.33%;
+    flex: 0 0 auto;
+    padding: 0px 15px;
+}
+.col_2{
+    width:16.66%;
+    flex: 0 0 auto;
+    padding: 0px 15px;
+}
+.col_3{
+    width:25%;
+    flex: 0 0 auto;
+    padding: 0px 15px;
+}
+.col_4{
+    width:33.33%;
+    flex: 0 0 auto;
+    padding: 0px 15px;
+}
+.col_5{
+    width:41.66%;
+    flex: 0 0 auto;
+    padding: 0px 15px;
+}
+.col_6{
+    width:50%;
+    flex: 0 0 auto;
+    padding: 0px 15px;
+}
+.col_7{
+    width:58.33%;
+    flex: 0 0 auto;
+    padding: 0px 15px;
+}
+.col_8{
+    width:66.66%;
+    flex: 0 0 auto;
+    padding: 0px 15px;
+}
+.col_9{
+    width:75%;
+    flex: 0 0 auto;
+    padding: 0px 15px;
+}
+.col_10{
+    width:83.33%;
+    flex: 0 0 auto;
+    padding: 0px 15px;
+}
+.col_11{
+    width:91.66%;
+    flex: 0 0 auto;
+    padding: 0px 15px;
+}
+.col_12{
+    width:100%;
+    flex: 0 0 auto;
+    padding: 0px 15px;
+}
+/* Header Starts */
+.nav{
+    background-color: black;
+    height: 100px;
+    width: auto;
+}
+/* Header Ends */
+
+.logo{
+    background-color: red;
+    height: 50px;
+    width: auto;
+    margin-top: 25px;
+}
+
+.content{
+    background-color: red;
+    height: 50px;
+    width: auto;
+    margin-top: 25px;
+}
+.btn{
+    background-color: red;
+    height: 50px;
+    width: auto;
+    margin-top: 25px;
+}
+/* Second Section Starts */
+.pic{
+    background-color: red;
+    height: 500px;
+    width: auto;
+}
+.picture{
+    background-color: black;
+    height: 50px;
+    width: auto;
+    margin-top: 300px;
+}
+/* Second Section Ends */
+
+/* Third Section Starts */
+
+.volup{
+    background-color: black;
+    height: 300px;
+    width: auto;
+}
+
+.vol{
+    background-color: red;
+    height: 200px;
+    width: auto;
+    margin-top: 60px; 
+}
+.up{
+    background-color: red;
+    height: 200px;
+    width: auto;
+    margin-top: 60px; 
+}
+/* Third Section Ends */
+
+/* Fourth Section Starts */
+.stud{
+    background-color: red;
+    height: 200px;
+    width: auto;
+}
+.course{
+    background-color: black;
+    height: 80px;
+    width: auto;
+    margin-top: 60px;
+}
+.trainer{
+    background-color: black;
+    height: 80px;
+    width: auto;
+    margin-top: 60px;
+}
+.event{
+    background-color: black;
+    height: 80px;
+    width: auto;
+    margin-top: 60px;
+}
+.students{
+    background-color: black;
+    height: 80px;
+    width: auto;
+    margin-top: 60px;
+}
+/* Fourth section ends */
+
+/* Fifth Section Starts */
+
+.men{
+        background-color: black;
+        height: 400px;
+        width: auto;
+}
+.tor{
+    background-color: red;
+    height: 280px;
+    width: auto;
+    margin-top: 60px;
+}  
+.cor{
+    background-color: red;
+    height: 250px;
+    width: 250px;
+    margin-top: 75px;
+}
+.ulla{
+    background-color: red;
+    height: 250px;
+    width: 250px;
+    margin-top: 75px;
+}
+.lab{
+    background-color: red;
+    height: 250px;
+    width: 250px;
+    margin-top: 75px;;
+} 
+/* Fith Section Ends */
+
+/* Sixth Section Starts */
+
+.box{
+    background-color: red;
+    height: 350px;
+    width: auto;
+}
+.lorem{
+    background-color: black;
+    height: 80px;
+    width: auto;
+    margin-top: 25px;
+}
+.dolar{
+    background-color: black;
+    height: 80px;
+    width: auto;
+    margin-top: 25px;
+}
+.sed{
+    background-color: black;
+    height: 80px;
+    width: auto;
+    margin-top: 25px;
+}
+.magni{
+    background-color: black;
+    height: 80px;
+    width: auto;
+    margin-top: 25px;
+}
+.nemo{
+    background-color: black;
+    height: 80px;
+    width: auto;
+    margin-top: 25px;
+}
+.eiusmond{
+    background-color: black;
+    height: 80px;
+    width: auto;
+    margin-top: 25px;
+}
+.midela{
+    background-color: black;
+    height: 80px;
+    width: auto;
+    margin-top: 25px;
+}
+.pira{
+    background-color: black;
+    height: 80px;
+    width: auto;
+    margin-top: 25px;
+}
+.dirada{
+    background-color: black;
+    height: 80px;
+    width: auto;
+    margin-top: 25px;
+}
+.moton{
+    background-color: black;
+    height: 80px;
+    width: auto;
+    margin-top: 25px;
+}
+.verdo{
+    background-color: black;
+    height: 80px;
+    width: auto;
+    margin-top: 25px;
+}
+.flavor{
+    background-color: black;
+    height: 80px;
+    width: auto;
+    margin-top: 25px;
+}
+
+/* Sixth Section Ends */
+
+
+/* Seventh Section Starts */
+
+.popular{
+    background-color: black;
+    height: 500px;
+    width: auto;
+}
+.website{
+    background-color: red;
+    height: 400px;
+    width: auto;
+    margin-top: 50px;
+}
+.search{
+    background-color: red;
+    height: 400px;
+    width: auto;
+    margin-top: 50px;
+}
+.copy{
+    background-color: red;
+    height: 400px;
+    width: auto;
+    margin-top: 50px;
+}
+
+
+/* Seventh section Ends */
+/* Eighth Section Starts */
+
+.persons{
+    background-color: red;
+    height: 500px;
+    width: auto;
+}
+.walter{
+    background-color: black;
+    height: 400px;
+    width: auto;
+    margin-top: 50px;
+}
+.sarah{
+    background-color: black;
+    height: 400px;
+    width: auto;
+    margin-top: 50px;
+}
+.william{
+    background-color: black;
+    height: 400px;
+    width: auto;
+    margin-top: 50px;
+}
+
+/* Eighth Section Ends */
+
+/* Ninth Section Starts */
+
+.address{
+        background-color: black;
+        height: 300px;
+        width: auto;
+}
+.mentor{
+    background-color: red;
+    height: 200px;
+    width: auto;
+    margin-top: 50px;
+}
+.use{
+    background-color: red;
+    height: 200px;
+    width: auto;
+    margin-top: 50px;
+}
+.our{
+    background-color: red;
+    height: 200px;
+    width: auto;
+    margin-top: 50px;
+}
+.join{
+    background-color: red;
+    height: 200px;
+    width: auto;
+    margin-top: 50px;
+}
+/* Ninth Section Ends */
+
+/* Tenth Section Starts */
+
+footer{
+    background-color: red;
+    height: 100px;
+    width: auto;
+}
+.copyright{
+    background-color: black;
+    height: 50px;
+    width: auto;
+    margin-top: 25px;
+}
+.symbol{
+    background-color: black;
+    height: 50px;
+    width: auto;
+    margin-top: 25px;
+}
+
+/* Tenth Section Ends */
