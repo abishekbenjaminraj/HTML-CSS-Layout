@@ -71,11 +71,14 @@
     flex: 0 0 auto;
     padding: 0px 15px;
 }
+.align_center{
+    align-items: center;
+}
 /* Header Starts */
 .nav{
     background-color: black;
-    height: 100px;
     width: auto;
+    padding: 20px 0;
 }
 /* Header Ends */
 
@@ -83,32 +86,28 @@
     background-color: red;
     height: 50px;
     width: auto;
-    margin-top: 25px;
 }
 
 .content{
     background-color: red;
     height: 50px;
     width: auto;
-    margin-top: 25px;
 }
 .btn{
     background-color: red;
     height: 50px;
     width: auto;
-    margin-top: 25px;
 }
 /* Second Section Starts */
 .pic{
     background-color: red;
-    height: 500px;
     width: auto;
+    padding: 150px 0;
 }
 .picture{
     background-color: black;
-    height: 50px;
+    height: 200px;
     width: auto;
-    margin-top: 300px;
 }
 /* Second Section Ends */
 
@@ -116,53 +115,47 @@
 
 .volup{
     background-color: black;
-    height: 300px;
     width: auto;
+    padding: 50px 0;
 }
 
 .vol{
     background-color: red;
     height: 200px;
     width: auto;
-    margin-top: 60px; 
 }
 .up{
     background-color: red;
     height: 200px;
     width: auto;
-    margin-top: 60px; 
 }
 /* Third Section Ends */
 
 /* Fourth Section Starts */
 .stud{
     background-color: red;
-    height: 200px;
     width: auto;
+    padding: 50px 0;
 }
 .course{
     background-color: black;
     height: 80px;
     width: auto;
-    margin-top: 60px;
 }
 .trainer{
     background-color: black;
     height: 80px;
     width: auto;
-    margin-top: 60px;
 }
 .event{
     background-color: black;
     height: 80px;
     width: auto;
-    margin-top: 60px;
 }
 .students{
     background-color: black;
     height: 80px;
     width: auto;
-    margin-top: 60px;
 }
 /* Fourth section ends */
 
@@ -170,32 +163,28 @@
 
 .men{
         background-color: black;
-        height: 400px;
         width: auto;
+        padding: 50px 0;
 }
 .tor{
     background-color: red;
-    height: 280px;
+    height: 400px;
     width: auto;
-    margin-top: 60px;
 }  
 .cor{
     background-color: red;
     height: 250px;
     width: 250px;
-    margin-top: 75px;
 }
 .ulla{
     background-color: red;
     height: 250px;
     width: 250px;
-    margin-top: 75px;
 }
 .lab{
     background-color: red;
     height: 250px;
     width: 250px;
-    margin-top: 75px;;
 } 
 /* Fith Section Ends */
 
@@ -203,109 +192,118 @@
 
 .box{
     background-color: red;
-    height: 350px;
     width: auto;
+    padding: 30px 0;
 }
 .lorem{
     background-color: black;
     height: 80px;
     width: auto;
-    margin-top: 25px;
+    margin-top: 50px;
 }
 .dolar{
     background-color: black;
     height: 80px;
     width: auto;
-    margin-top: 25px;
+    margin-top: 50px;
 }
 .sed{
     background-color: black;
     height: 80px;
     width: auto;
-    margin-top: 25px;
+    margin-top: 50px;
 }
 .magni{
     background-color: black;
     height: 80px;
     width: auto;
-    margin-top: 25px;
+    margin-top: 50px;
 }
 .nemo{
     background-color: black;
     height: 80px;
     width: auto;
-    margin-top: 25px;
+    margin-top: 50px;
 }
 .eiusmond{
     background-color: black;
     height: 80px;
     width: auto;
-    margin-top: 25px;
+    margin-top: 50px;
 }
 .midela{
     background-color: black;
     height: 80px;
     width: auto;
-    margin-top: 25px;
+    margin-top: 50px;
 }
 .pira{
     background-color: black;
     height: 80px;
     width: auto;
-    margin-top: 25px;
+    margin-top: 50px;
 }
 .dirada{
     background-color: black;
     height: 80px;
     width: auto;
-    margin-top: 25px;
+    margin-top: 50px;
 }
 .moton{
     background-color: black;
     height: 80px;
     width: auto;
-    margin-top: 25px;
+    margin-top: 50px;
 }
 .verdo{
     background-color: black;
     height: 80px;
     width: auto;
-    margin-top: 25px;
+    margin-top: 50px;
 }
 .flavor{
     background-color: black;
     height: 80px;
     width: auto;
-    margin-top: 25px;
+    margin-top: 50px;
 }
 
 /* Sixth Section Ends */
+/* Empty Section Starts */
 
+.empty{
+    background-color: black;
+    width: auto;
+    padding: 20px 0;
+}
+.emp{
+    background-color: red;
+    height: 50px;
+    width: auto;
+}
+/* Empty Section ends */
 
 /* Seventh Section Starts */
 
 .popular{
     background-color: black;
-    height: 500px;
     width: auto;
+    padding: 20px 0;
 }
 .website{
     background-color: red;
     height: 400px;
     width: auto;
-    margin-top: 50px;
 }
 .search{
     background-color: red;
     height: 400px;
     width: auto;
-    margin-top: 50px;
 }
 .copy{
     background-color: red;
     height: 400px;
     width: auto;
-    margin-top: 50px;
 }
 
 
@@ -314,26 +312,23 @@
 
 .persons{
     background-color: red;
-    height: 500px;
     width: auto;
+    padding: 50px 0;
 }
 .walter{
     background-color: black;
     height: 400px;
     width: auto;
-    margin-top: 50px;
 }
 .sarah{
     background-color: black;
     height: 400px;
     width: auto;
-    margin-top: 50px;
 }
 .william{
     background-color: black;
     height: 400px;
     width: auto;
-    margin-top: 50px;
 }
 
 /* Eighth Section Ends */
@@ -342,32 +337,28 @@
 
 .address{
         background-color: black;
-        height: 300px;
         width: auto;
+        padding: 50px 0;
 }
 .mentor{
     background-color: red;
     height: 200px;
     width: auto;
-    margin-top: 50px;
 }
 .use{
     background-color: red;
     height: 200px;
     width: auto;
-    margin-top: 50px;
 }
 .our{
     background-color: red;
     height: 200px;
     width: auto;
-    margin-top: 50px;
 }
 .join{
     background-color: red;
     height: 200px;
     width: auto;
-    margin-top: 50px;
 }
 /* Ninth Section Ends */
 
@@ -375,20 +366,18 @@
 
 footer{
     background-color: red;
-    height: 100px;
     width: auto;
+    padding: 10px 0;
 }
 .copyright{
     background-color: black;
     height: 50px;
     width: auto;
-    margin-top: 25px;
 }
 .symbol{
     background-color: black;
     height: 50px;
     width: auto;
-    margin-top: 25px;
 }
 
 /* Tenth Section Ends */
